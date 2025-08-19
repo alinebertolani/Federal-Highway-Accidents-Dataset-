@@ -1,0 +1,6 @@
+pandas
+matplotlib.pyplot 
+seaborn
+numpy 
+glob
+os
