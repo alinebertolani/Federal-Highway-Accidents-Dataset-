@@ -2,9 +2,9 @@
 
 # **Análise Exploratória de Dados — Acidentes de Trânsito em Rodovias Federais do Brasil (2014–2024)**
 
-Este dataset contém informações consolidadas e tratadas de acidentes de trânsito em rodovias federais brasileiras, cobrindo o período de **2014 a 2024**, com base em dados abertos da PRF (Polícia Rodoviária Federal). O objetivo é fornecer uma base limpa e pronta para análises, com foco em estatísticas anuais, causas, tipos de acidentes e distribuição geográfica.
+Este projeto compreende a EDA (*Exploratory Data Analysis*) da Base de Dados de Acidentes de Trânsito em Rodovias Federais Brasileiras, cobrindo o período de **2014 a 2024**, com base em dados abertos da PRF (Polícia Rodoviária Federal). O objetivo é fornecer uma base limpa e pronta para análises, com foco em estatísticas anuais, causas, tipos de acidentes e distribuição geográfica.
 
-Acidentes de trânsito causam milhares de mortes e prejuízos no Brasil todos os anos, portanto este projeto de EDA (*Exploratory Data Analysis*) trás informações essenciais para identificar padrões, apoiar decisões de segurança viária e orientar ações que salvam vidas.
+Acidentes de trânsito causam milhares de mortes e prejuízos no Brasil todos os anos, portanto este projeto de EDA trás informações essenciais para identificar padrões, apoiar decisões de segurança viária e orientar ações que salvam vidas.
 
 O projeto foi desenvolvido em Python com Pandas e Matplotlib.
 
@@ -42,5 +42,6 @@ O arquivo completo (220MB) pode ser baixado aqui: [https://www.kaggle.com/datase
 
 ## Dicionário dos Dados
 
-![Metadados](./images/metadados_1.png)
-![Metadados](./images/metadados_2.png)
+![Metadados](./images/metadados_01.png)
+![Metadados](./images/metadados_02.png)
+
